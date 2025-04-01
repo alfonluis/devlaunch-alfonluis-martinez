@@ -1,0 +1,15 @@
+pasos destallados descrito en un archivo txt  para cocinar un huevo
+primero tomar uh huevo 
+tomar un sarten 
+tomar aceite
+
+la cocina esta encedida?
+
+-si esta encendida, colocar el sarten, echar el aceite, esperar que caliente , quebrar el huevo y echarlo
+-si no esta encendida, encenderla y colocar el sarten, echar el aceite, esperar que caliente , quebrar el huevo y echarlo
+
+el huevo es revuelto?
+-si, con una cucharla menearlo y esperar que se cocine
+-si no, dejarlo que se cocine sin revolver.
+
+retirar el sarten y servir el huevo en un plato.
