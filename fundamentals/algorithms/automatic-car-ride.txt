@@ -1,0 +1,17 @@
+explicacion detallada de como manejar un cohe automitico
+solucion
+
+buscar las llaves del vehiculo
+ir al vehiculo
+
+esta abierto el vehiculo?
+si esta abierto, entro al vehiculo
+si no, abro con la llave y entro al vehiculo
+
+colocarse el cinturon
+pisar el freno
+encederlo
+colocarlo en velocidad drive
+usar el frno para detenerse
+usar el acelador para vanzar
+usar el volante para dirigir el carro
